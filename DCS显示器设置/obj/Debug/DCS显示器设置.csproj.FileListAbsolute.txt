@@ -1,0 +1,11 @@
+C:\Users\viper\source\repos\DCS显示器设置\DCS显示器设置\bin\Debug\DCS显示器设置.exe.config
+C:\Users\viper\source\repos\DCS显示器设置\DCS显示器设置\bin\Debug\DCS显示器设置.exe
+C:\Users\viper\source\repos\DCS显示器设置\DCS显示器设置\bin\Debug\DCS显示器设置.pdb
+C:\Users\viper\source\repos\DCS显示器设置\DCS显示器设置\obj\Debug\DCS显示器设置.csproj.AssemblyReference.cache
+C:\Users\viper\source\repos\DCS显示器设置\DCS显示器设置\obj\Debug\DCS显示器设置.csproj.SuggestedBindingRedirects.cache
+C:\Users\viper\source\repos\DCS显示器设置\DCS显示器设置\obj\Debug\DCS显示器设置.Properties.Resources.resources
+C:\Users\viper\source\repos\DCS显示器设置\DCS显示器设置\obj\Debug\DCS显示器设置.csproj.GenerateResource.cache
+C:\Users\viper\source\repos\DCS显示器设置\DCS显示器设置\obj\Debug\DCS显示器设置.csproj.CoreCompileInputs.cache
+C:\Users\viper\source\repos\DCS显示器设置\DCS显示器设置\obj\Debug\DCS显示器设置.exe
+C:\Users\viper\source\repos\DCS显示器设置\DCS显示器设置\obj\Debug\DCS显示器设置.pdb
+C:\Users\viper\source\repos\DCS显示器设置\DCS显示器设置\obj\Debug\DCS显示器设置.MainWindow.resources

@@ -10,7 +10,7 @@
 
 ##### 第一步：
 
-### ![1](https://github.com/c4p74ln/DCS-MFCD-export/tree/main/img/1.png)
+### ![Image text](https://github.com/c4p74ln/DCS-MFCD-export/tree/main/img/1.png)
 
 选择DCS.exe所在的路径并打开。即可扫描出所有已安装机型mod文件。
 

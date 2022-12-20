@@ -10,15 +10,15 @@
 
 ##### 第一步：
 
-### ![1](.\img\1.png)
+### ![1](https://github.com/c4p74ln/DCS-MFCD-export/tree/main/img/1.png)
 
 选择DCS.exe所在的路径并打开。即可扫描出所有已安装机型mod文件。
 
-![2](.\img\2.png)
+![2](https://github.com/c4p74ln/DCS-MFCD-export/tree/main/img/2.png)
 
 其中JF17,F14,Ka50等自带导出所需的代码就不用操作了，FC3不支持。接下来勾选需要导出仪表的机型，并按下`添加输出`即可为相应机型添加仪表导出的代码。
 
-![3](.\img\3.png)
+![3](https://github.com/c4p74ln/DCS-MFCD-export/tree/main/img/3.png)
 
 下方列表中出现各个文件的修改情况。其中`[+]`为成功执行，`[-]`为执行失败。
 
